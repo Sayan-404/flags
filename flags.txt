@@ -1,0 +1,5 @@
+OSINT - 5 
+Crypto - 8
+Pwn - 5
+Web - 7
+general skills - 10
